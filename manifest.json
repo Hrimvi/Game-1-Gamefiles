@@ -1,0 +1,1125 @@
+{
+  "Version": "0.0.0",
+  "Files": [
+    {
+      "Name": "Game 1.exe",
+      "Path": "Game 1.exe",
+      "Size": 666624
+    },
+    {
+      "Name": "UnityCrashHandler64.exe",
+      "Path": "UnityCrashHandler64.exe",
+      "Size": 1114136
+    },
+    {
+      "Name": "UnityPlayer.dll",
+      "Path": "UnityPlayer.dll",
+      "Size": 30919704
+    },
+    {
+      "Name": "app.info",
+      "Path": "Game 1_Data\\app.info",
+      "Size": 21
+    },
+    {
+      "Name": "boot.config",
+      "Path": "Game 1_Data\\boot.config",
+      "Size": 207
+    },
+    {
+      "Name": "globalgamemanagers",
+      "Path": "Game 1_Data\\globalgamemanagers",
+      "Size": 356412
+    },
+    {
+      "Name": "globalgamemanagers.assets",
+      "Path": "Game 1_Data\\globalgamemanagers.assets",
+      "Size": 3380336
+    },
+    {
+      "Name": "globalgamemanagers.assets.resS",
+      "Path": "Game 1_Data\\globalgamemanagers.assets.resS",
+      "Size": 15065664
+    },
+    {
+      "Name": "level0",
+      "Path": "Game 1_Data\\level0",
+      "Size": 2533684
+    },
+    {
+      "Name": "level0.resS",
+      "Path": "Game 1_Data\\level0.resS",
+      "Size": 7290528
+    },
+    {
+      "Name": "level1",
+      "Path": "Game 1_Data\\level1",
+      "Size": 51712
+    },
+    {
+      "Name": "level1.resS",
+      "Path": "Game 1_Data\\level1.resS",
+      "Size": 131232
+    },
+    {
+      "Name": "resources.assets",
+      "Path": "Game 1_Data\\resources.assets",
+      "Size": 868728
+    },
+    {
+      "Name": "resources.assets.resS",
+      "Path": "Game 1_Data\\resources.assets.resS",
+      "Size": 475680
+    },
+    {
+      "Name": "RuntimeInitializeOnLoads.json",
+      "Path": "Game 1_Data\\RuntimeInitializeOnLoads.json",
+      "Size": 6534
+    },
+    {
+      "Name": "ScriptingAssemblies.json",
+      "Path": "Game 1_Data\\ScriptingAssemblies.json",
+      "Size": 5807
+    },
+    {
+      "Name": "sharedassets0.assets",
+      "Path": "Game 1_Data\\sharedassets0.assets",
+      "Size": 104123996
+    },
+    {
+      "Name": "sharedassets0.assets.resS",
+      "Path": "Game 1_Data\\sharedassets0.assets.resS",
+      "Size": 609287984
+    },
+    {
+      "Name": "sharedassets1.assets",
+      "Path": "Game 1_Data\\sharedassets1.assets",
+      "Size": 5184
+    },
+    {
+      "Name": "sharedassets1.assets.resS",
+      "Path": "Game 1_Data\\sharedassets1.assets.resS",
+      "Size": 633616
+    },
+    {
+      "Name": "Assembly-CSharp.dll",
+      "Path": "Game 1_Data\\Managed\\Assembly-CSharp.dll",
+      "Size": 585728
+    },
+    {
+      "Name": "Cinemachine.dll",
+      "Path": "Game 1_Data\\Managed\\Cinemachine.dll",
+      "Size": 312320
+    },
+    {
+      "Name": "Firebase.App.dll",
+      "Path": "Game 1_Data\\Managed\\Firebase.App.dll",
+      "Size": 90624
+    },
+    {
+      "Name": "Firebase.Auth.dll",
+      "Path": "Game 1_Data\\Managed\\Firebase.Auth.dll",
+      "Size": 92672
+    },
+    {
+      "Name": "Firebase.Database.dll",
+      "Path": "Game 1_Data\\Managed\\Firebase.Database.dll",
+      "Size": 75776
+    },
+    {
+      "Name": "Firebase.Platform.dll",
+      "Path": "Game 1_Data\\Managed\\Firebase.Platform.dll",
+      "Size": 30720
+    },
+    {
+      "Name": "Firebase.TaskExtension.dll",
+      "Path": "Game 1_Data\\Managed\\Firebase.TaskExtension.dll",
+      "Size": 8192
+    },
+    {
+      "Name": "Google.MiniJson.dll",
+      "Path": "Game 1_Data\\Managed\\Google.MiniJson.dll",
+      "Size": 10240
+    },
+    {
+      "Name": "Mono.Security.dll",
+      "Path": "Game 1_Data\\Managed\\Mono.Security.dll",
+      "Size": 241152
+    },
+    {
+      "Name": "mscorlib.dll",
+      "Path": "Game 1_Data\\Managed\\mscorlib.dll",
+      "Size": 4631552
+    },
+    {
+      "Name": "netstandard.dll",
+      "Path": "Game 1_Data\\Managed\\netstandard.dll",
+      "Size": 90112
+    },
+    {
+      "Name": "Newtonsoft.Json.dll",
+      "Path": "Game 1_Data\\Managed\\Newtonsoft.Json.dll",
+      "Size": 691712
+    },
+    {
+      "Name": "Purchasing.Common.dll",
+      "Path": "Game 1_Data\\Managed\\Purchasing.Common.dll",
+      "Size": 13824
+    },
+    {
+      "Name": "System.ComponentModel.Composition.dll",
+      "Path": "Game 1_Data\\Managed\\System.ComponentModel.Composition.dll",
+      "Size": 257024
+    },
+    {
+      "Name": "System.Configuration.dll",
+      "Path": "Game 1_Data\\Managed\\System.Configuration.dll",
+      "Size": 124928
+    },
+    {
+      "Name": "System.Core.dll",
+      "Path": "Game 1_Data\\Managed\\System.Core.dll",
+      "Size": 1113088
+    },
+    {
+      "Name": "System.Data.DataSetExtensions.dll",
+      "Path": "Game 1_Data\\Managed\\System.Data.DataSetExtensions.dll",
+      "Size": 29696
+    },
+    {
+      "Name": "System.Data.dll",
+      "Path": "Game 1_Data\\Managed\\System.Data.dll",
+      "Size": 2118656
+    },
+    {
+      "Name": "System.dll",
+      "Path": "Game 1_Data\\Managed\\System.dll",
+      "Size": 2637824
+    },
+    {
+      "Name": "System.Drawing.dll",
+      "Path": "Game 1_Data\\Managed\\System.Drawing.dll",
+      "Size": 489984
+    },
+    {
+      "Name": "System.EnterpriseServices.dll",
+      "Path": "Game 1_Data\\Managed\\System.EnterpriseServices.dll",
+      "Size": 44544
+    },
+    {
+      "Name": "System.IO.Compression.dll",
+      "Path": "Game 1_Data\\Managed\\System.IO.Compression.dll",
+      "Size": 114688
+    },
+    {
+      "Name": "System.IO.Compression.FileSystem.dll",
+      "Path": "Game 1_Data\\Managed\\System.IO.Compression.FileSystem.dll",
+      "Size": 18432
+    },
+    {
+      "Name": "System.Net.Http.dll",
+      "Path": "Game 1_Data\\Managed\\System.Net.Http.dll",
+      "Size": 121344
+    },
+    {
+      "Name": "System.Numerics.dll",
+      "Path": "Game 1_Data\\Managed\\System.Numerics.dll",
+      "Size": 119296
+    },
+    {
+      "Name": "System.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\System.Runtime.dll",
+      "Size": 12288
+    },
+    {
+      "Name": "System.Runtime.Serialization.dll",
+      "Path": "Game 1_Data\\Managed\\System.Runtime.Serialization.dll",
+      "Size": 934400
+    },
+    {
+      "Name": "System.Security.dll",
+      "Path": "Game 1_Data\\Managed\\System.Security.dll",
+      "Size": 320000
+    },
+    {
+      "Name": "System.ServiceModel.Internals.dll",
+      "Path": "Game 1_Data\\Managed\\System.ServiceModel.Internals.dll",
+      "Size": 215040
+    },
+    {
+      "Name": "System.Transactions.dll",
+      "Path": "Game 1_Data\\Managed\\System.Transactions.dll",
+      "Size": 35328
+    },
+    {
+      "Name": "System.Xml.dll",
+      "Path": "Game 1_Data\\Managed\\System.Xml.dll",
+      "Size": 3160064
+    },
+    {
+      "Name": "System.Xml.Linq.dll",
+      "Path": "Game 1_Data\\Managed\\System.Xml.Linq.dll",
+      "Size": 136704
+    },
+    {
+      "Name": "unity-websocket-sharp.dll",
+      "Path": "Game 1_Data\\Managed\\unity-websocket-sharp.dll",
+      "Size": 223232
+    },
+    {
+      "Name": "Unity.AI.Navigation.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.AI.Navigation.dll",
+      "Size": 19968
+    },
+    {
+      "Name": "Unity.Analytics.DataPrivacy.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Analytics.DataPrivacy.dll",
+      "Size": 8704
+    },
+    {
+      "Name": "Unity.Burst.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Burst.dll",
+      "Size": 317440
+    },
+    {
+      "Name": "Unity.Burst.Unsafe.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Burst.Unsafe.dll",
+      "Size": 5632
+    },
+    {
+      "Name": "Unity.Collections.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Collections.dll",
+      "Size": 364544
+    },
+    {
+      "Name": "Unity.Collections.LowLevel.ILSupport.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Collections.LowLevel.ILSupport.dll",
+      "Size": 4096
+    },
+    {
+      "Name": "Unity.Mathematics.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Mathematics.dll",
+      "Size": 741376
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.Adapters.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Adapters.dll",
+      "Size": 14848
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.Adapters.Ngo1.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Adapters.Ngo1.dll",
+      "Size": 8192
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.Common.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Common.dll",
+      "Size": 31232
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.Initialization.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Initialization.dll",
+      "Size": 6144
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.MetricEvents.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.MetricEvents.dll",
+      "Size": 5632
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.MetricTestData.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.MetricTestData.dll",
+      "Size": 11264
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.MetricTypes.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.MetricTypes.dll",
+      "Size": 20992
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.NetStats.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStats.dll",
+      "Size": 55296
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll",
+      "Size": 9728
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll",
+      "Size": 24064
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll",
+      "Size": 5120
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.NetStatsReporting.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsReporting.dll",
+      "Size": 5120
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll",
+      "Size": 14336
+    },
+    {
+      "Name": "Unity.Multiplayer.Tools.NetworkSolutionInterface.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll",
+      "Size": 6144
+    },
+    {
+      "Name": "Unity.Netcode.Components.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Netcode.Components.dll",
+      "Size": 70144
+    },
+    {
+      "Name": "Unity.Netcode.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Netcode.Runtime.dll",
+      "Size": 355328
+    },
+    {
+      "Name": "Unity.Networking.Transport.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Networking.Transport.dll",
+      "Size": 163840
+    },
+    {
+      "Name": "Unity.Postprocessing.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Postprocessing.Runtime.dll",
+      "Size": 162816
+    },
+    {
+      "Name": "Unity.Profiling.Core.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Profiling.Core.dll",
+      "Size": 10240
+    },
+    {
+      "Name": "Unity.Recorder.Base.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Recorder.Base.dll",
+      "Size": 5632
+    },
+    {
+      "Name": "Unity.Recorder.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Recorder.dll",
+      "Size": 6656
+    },
+    {
+      "Name": "Unity.RenderPipelines.Core.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.Core.Runtime.dll",
+      "Size": 527872
+    },
+    {
+      "Name": "Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "Size": 4608
+    },
+    {
+      "Name": "Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
+      "Size": 7168
+    },
+    {
+      "Name": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.HighDefinition.Runtime.dll",
+      "Size": 4808704
+    },
+    {
+      "Name": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "Size": 4608
+    },
+    {
+      "Name": "Unity.Services.Analytics.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Analytics.dll",
+      "Size": 80384
+    },
+    {
+      "Name": "Unity.Services.Authentication.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Authentication.dll",
+      "Size": 115200
+    },
+    {
+      "Name": "Unity.Services.Core.Analytics.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Analytics.dll",
+      "Size": 5632
+    },
+    {
+      "Name": "Unity.Services.Core.Configuration.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Configuration.dll",
+      "Size": 14336
+    },
+    {
+      "Name": "Unity.Services.Core.Device.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Device.dll",
+      "Size": 6656
+    },
+    {
+      "Name": "Unity.Services.Core.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.dll",
+      "Size": 14336
+    },
+    {
+      "Name": "Unity.Services.Core.Environments.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Environments.dll",
+      "Size": 5632
+    },
+    {
+      "Name": "Unity.Services.Core.Environments.Internal.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Environments.Internal.dll",
+      "Size": 5120
+    },
+    {
+      "Name": "Unity.Services.Core.Internal.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Internal.dll",
+      "Size": 71680
+    },
+    {
+      "Name": "Unity.Services.Core.Networking.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Networking.dll",
+      "Size": 8192
+    },
+    {
+      "Name": "Unity.Services.Core.Registration.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Registration.dll",
+      "Size": 18432
+    },
+    {
+      "Name": "Unity.Services.Core.Scheduler.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Scheduler.dll",
+      "Size": 12800
+    },
+    {
+      "Name": "Unity.Services.Core.Telemetry.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Telemetry.dll",
+      "Size": 8704
+    },
+    {
+      "Name": "Unity.Services.Core.Threading.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Threading.dll",
+      "Size": 7168
+    },
+    {
+      "Name": "Unity.Services.Multiplay.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Multiplay.dll",
+      "Size": 86016
+    },
+    {
+      "Name": "Unity.Services.Multiplay.Sqp.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Multiplay.Sqp.dll",
+      "Size": 15360
+    },
+    {
+      "Name": "Unity.Services.Multiplay.Wire.Internal.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Multiplay.Wire.Internal.dll",
+      "Size": 55808
+    },
+    {
+      "Name": "Unity.Services.Wire.Internal.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Services.Wire.Internal.dll",
+      "Size": 55296
+    },
+    {
+      "Name": "Unity.TextMeshPro.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.TextMeshPro.dll",
+      "Size": 380416
+    },
+    {
+      "Name": "Unity.Timeline.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.Timeline.dll",
+      "Size": 127488
+    },
+    {
+      "Name": "Unity.VisualEffectGraph.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.VisualEffectGraph.Runtime.dll",
+      "Size": 100352
+    },
+    {
+      "Name": "Unity.VisualScripting.Antlr3.Runtime.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.Antlr3.Runtime.dll",
+      "Size": 86016
+    },
+    {
+      "Name": "Unity.VisualScripting.Core.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.Core.dll",
+      "Size": 625152
+    },
+    {
+      "Name": "Unity.VisualScripting.Flow.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.Flow.dll",
+      "Size": 401408
+    },
+    {
+      "Name": "Unity.VisualScripting.State.dll",
+      "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.State.dll",
+      "Size": 32256
+    },
+    {
+      "Name": "UnityEngine.AccessibilityModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.AccessibilityModule.dll",
+      "Size": 23576
+    },
+    {
+      "Name": "UnityEngine.Advertisements.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Advertisements.dll",
+      "Size": 38400
+    },
+    {
+      "Name": "UnityEngine.AIModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.AIModule.dll",
+      "Size": 58392
+    },
+    {
+      "Name": "UnityEngine.AndroidJNIModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.AndroidJNIModule.dll",
+      "Size": 93720
+    },
+    {
+      "Name": "UnityEngine.AnimationModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.AnimationModule.dll",
+      "Size": 163864
+    },
+    {
+      "Name": "UnityEngine.ARModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ARModule.dll",
+      "Size": 21016
+    },
+    {
+      "Name": "UnityEngine.AssetBundleModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.AssetBundleModule.dll",
+      "Size": 32792
+    },
+    {
+      "Name": "UnityEngine.AudioModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.AudioModule.dll",
+      "Size": 70680
+    },
+    {
+      "Name": "UnityEngine.ClothModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ClothModule.dll",
+      "Size": 26136
+    },
+    {
+      "Name": "UnityEngine.ClusterInputModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ClusterInputModule.dll",
+      "Size": 21528
+    },
+    {
+      "Name": "UnityEngine.ClusterRendererModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ClusterRendererModule.dll",
+      "Size": 22040
+    },
+    {
+      "Name": "UnityEngine.ContentLoadModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ContentLoadModule.dll",
+      "Size": 26648
+    },
+    {
+      "Name": "UnityEngine.CoreModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.CoreModule.dll",
+      "Size": 1380888
+    },
+    {
+      "Name": "UnityEngine.CrashReportingModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.CrashReportingModule.dll",
+      "Size": 21016
+    },
+    {
+      "Name": "UnityEngine.DirectorModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.DirectorModule.dll",
+      "Size": 24600
+    },
+    {
+      "Name": "UnityEngine.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.dll",
+      "Size": 125976
+    },
+    {
+      "Name": "UnityEngine.DSPGraphModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.DSPGraphModule.dll",
+      "Size": 29208
+    },
+    {
+      "Name": "UnityEngine.GameCenterModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.GameCenterModule.dll",
+      "Size": 39960
+    },
+    {
+      "Name": "UnityEngine.GIModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.GIModule.dll",
+      "Size": 19992
+    },
+    {
+      "Name": "UnityEngine.GridModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.GridModule.dll",
+      "Size": 25112
+    },
+    {
+      "Name": "UnityEngine.HotReloadModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.HotReloadModule.dll",
+      "Size": 19992
+    },
+    {
+      "Name": "UnityEngine.ImageConversionModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ImageConversionModule.dll",
+      "Size": 24088
+    },
+    {
+      "Name": "UnityEngine.IMGUIModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.IMGUIModule.dll",
+      "Size": 189464
+    },
+    {
+      "Name": "UnityEngine.InputLegacyModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.InputLegacyModule.dll",
+      "Size": 38936
+    },
+    {
+      "Name": "UnityEngine.InputModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.InputModule.dll",
+      "Size": 23576
+    },
+    {
+      "Name": "UnityEngine.JSONSerializeModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.JSONSerializeModule.dll",
+      "Size": 22040
+    },
+    {
+      "Name": "UnityEngine.LocalizationModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.LocalizationModule.dll",
+      "Size": 21016
+    },
+    {
+      "Name": "UnityEngine.NVIDIAModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.NVIDIAModule.dll",
+      "Size": 33816
+    },
+    {
+      "Name": "UnityEngine.ParticleSystemModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ParticleSystemModule.dll",
+      "Size": 160792
+    },
+    {
+      "Name": "UnityEngine.PerformanceReportingModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.PerformanceReportingModule.dll",
+      "Size": 20504
+    },
+    {
+      "Name": "UnityEngine.Physics2DModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Physics2DModule.dll",
+      "Size": 141336
+    },
+    {
+      "Name": "UnityEngine.PhysicsModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.PhysicsModule.dll",
+      "Size": 138264
+    },
+    {
+      "Name": "UnityEngine.ProfilerModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ProfilerModule.dll",
+      "Size": 19992
+    },
+    {
+      "Name": "UnityEngine.PropertiesModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.PropertiesModule.dll",
+      "Size": 151576
+    },
+    {
+      "Name": "UnityEngine.Purchasing.AppleCore.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.AppleCore.dll",
+      "Size": 6144
+    },
+    {
+      "Name": "UnityEngine.Purchasing.AppleMacosStub.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.AppleMacosStub.dll",
+      "Size": 6144
+    },
+    {
+      "Name": "UnityEngine.Purchasing.AppleStub.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.AppleStub.dll",
+      "Size": 6144
+    },
+    {
+      "Name": "UnityEngine.Purchasing.Codeless.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.Codeless.dll",
+      "Size": 23040
+    },
+    {
+      "Name": "UnityEngine.Purchasing.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.dll",
+      "Size": 62464
+    },
+    {
+      "Name": "UnityEngine.Purchasing.SecurityCore.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.SecurityCore.dll",
+      "Size": 8704
+    },
+    {
+      "Name": "UnityEngine.Purchasing.SecurityStub.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.SecurityStub.dll",
+      "Size": 7168
+    },
+    {
+      "Name": "UnityEngine.Purchasing.Stores.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.Stores.dll",
+      "Size": 196608
+    },
+    {
+      "Name": "UnityEngine.Purchasing.WinRTCore.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.WinRTCore.dll",
+      "Size": 7168
+    },
+    {
+      "Name": "UnityEngine.Purchasing.WinRTStub.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.WinRTStub.dll",
+      "Size": 5120
+    },
+    {
+      "Name": "UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "Size": 19992
+    },
+    {
+      "Name": "UnityEngine.ScreenCaptureModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.ScreenCaptureModule.dll",
+      "Size": 21016
+    },
+    {
+      "Name": "UnityEngine.SharedInternalsModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.SharedInternalsModule.dll",
+      "Size": 32792
+    },
+    {
+      "Name": "UnityEngine.SpatialTracking.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.SpatialTracking.dll",
+      "Size": 11776
+    },
+    {
+      "Name": "UnityEngine.SpriteMaskModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.SpriteMaskModule.dll",
+      "Size": 21528
+    },
+    {
+      "Name": "UnityEngine.SpriteShapeModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.SpriteShapeModule.dll",
+      "Size": 26136
+    },
+    {
+      "Name": "UnityEngine.StreamingModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.StreamingModule.dll",
+      "Size": 20504
+    },
+    {
+      "Name": "UnityEngine.SubstanceModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.SubstanceModule.dll",
+      "Size": 24600
+    },
+    {
+      "Name": "UnityEngine.SubsystemsModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.SubsystemsModule.dll",
+      "Size": 34840
+    },
+    {
+      "Name": "UnityEngine.TerrainModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.TerrainModule.dll",
+      "Size": 100888
+    },
+    {
+      "Name": "UnityEngine.TerrainPhysicsModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.TerrainPhysicsModule.dll",
+      "Size": 21016
+    },
+    {
+      "Name": "UnityEngine.TextCoreFontEngineModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.TextCoreFontEngineModule.dll",
+      "Size": 72216
+    },
+    {
+      "Name": "UnityEngine.TextCoreTextEngineModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.TextCoreTextEngineModule.dll",
+      "Size": 249368
+    },
+    {
+      "Name": "UnityEngine.TextRenderingModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.TextRenderingModule.dll",
+      "Size": 38936
+    },
+    {
+      "Name": "UnityEngine.TilemapModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.TilemapModule.dll",
+      "Size": 46616
+    },
+    {
+      "Name": "UnityEngine.TLSModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.TLSModule.dll",
+      "Size": 26648
+    },
+    {
+      "Name": "UnityEngine.UI.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UI.dll",
+      "Size": 264704
+    },
+    {
+      "Name": "UnityEngine.UIElementsModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UIElementsModule.dll",
+      "Size": 1520152
+    },
+    {
+      "Name": "UnityEngine.UIModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UIModule.dll",
+      "Size": 36376
+    },
+    {
+      "Name": "UnityEngine.UmbraModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UmbraModule.dll",
+      "Size": 19992
+    },
+    {
+      "Name": "UnityEngine.UnityAnalyticsCommonModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityAnalyticsCommonModule.dll",
+      "Size": 21016
+    },
+    {
+      "Name": "UnityEngine.UnityAnalyticsModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityAnalyticsModule.dll",
+      "Size": 44568
+    },
+    {
+      "Name": "UnityEngine.UnityConnectModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityConnectModule.dll",
+      "Size": 21528
+    },
+    {
+      "Name": "UnityEngine.UnityCurlModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityCurlModule.dll",
+      "Size": 21528
+    },
+    {
+      "Name": "UnityEngine.UnityTestProtocolModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityTestProtocolModule.dll",
+      "Size": 19992
+    },
+    {
+      "Name": "UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Size": 23064
+    },
+    {
+      "Name": "UnityEngine.UnityWebRequestAudioModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.dll",
+      "Size": 22552
+    },
+    {
+      "Name": "UnityEngine.UnityWebRequestModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestModule.dll",
+      "Size": 57880
+    },
+    {
+      "Name": "UnityEngine.UnityWebRequestTextureModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.dll",
+      "Size": 21528
+    },
+    {
+      "Name": "UnityEngine.UnityWebRequestWWWModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll",
+      "Size": 31256
+    },
+    {
+      "Name": "UnityEngine.VehiclesModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.VehiclesModule.dll",
+      "Size": 24088
+    },
+    {
+      "Name": "UnityEngine.VFXModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.VFXModule.dll",
+      "Size": 58392
+    },
+    {
+      "Name": "UnityEngine.VideoModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.VideoModule.dll",
+      "Size": 40984
+    },
+    {
+      "Name": "UnityEngine.VirtualTexturingModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.VirtualTexturingModule.dll",
+      "Size": 35352
+    },
+    {
+      "Name": "UnityEngine.VRModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.VRModule.dll",
+      "Size": 26136
+    },
+    {
+      "Name": "UnityEngine.WindModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.WindModule.dll",
+      "Size": 21016
+    },
+    {
+      "Name": "UnityEngine.XR.LegacyInputHelpers.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.XR.LegacyInputHelpers.dll",
+      "Size": 23552
+    },
+    {
+      "Name": "UnityEngine.XRModule.dll",
+      "Path": "Game 1_Data\\Managed\\UnityEngine.XRModule.dll",
+      "Size": 70680
+    },
+    {
+      "Name": "websocket-sharp.dll",
+      "Path": "Game 1_Data\\Managed\\websocket-sharp.dll",
+      "Size": 248320
+    },
+    {
+      "Name": "unity default resources",
+      "Path": "Game 1_Data\\Resources\\unity default resources",
+      "Size": 1551312
+    },
+    {
+      "Name": "unity_builtin_extra",
+      "Path": "Game 1_Data\\Resources\\unity_builtin_extra",
+      "Size": 413956
+    },
+    {
+      "Name": "google-services-desktop.json",
+      "Path": "Game 1_Data\\StreamingAssets\\google-services-desktop.json",
+      "Size": 771
+    },
+    {
+      "Name": "UnityServicesProjectConfiguration.json",
+      "Path": "Game 1_Data\\StreamingAssets\\UnityServicesProjectConfiguration.json",
+      "Size": 2603
+    },
+    {
+      "Name": "mono-2.0-bdwgc.dll",
+      "Path": "MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
+      "Size": 7895064
+    },
+    {
+      "Name": "MonoPosixHelper.dll",
+      "Path": "MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll",
+      "Size": 610840
+    },
+    {
+      "Name": "FirebaseCppApp-12_3_0.dll",
+      "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppApp-12_3_0.dll",
+      "Size": 14785024
+    },
+    {
+      "Name": "FirebaseCppApp-12_7_0.dll",
+      "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppApp-12_7_0.dll",
+      "Size": 14789632
+    },
+    {
+      "Name": "FirebaseCppAuth.dll",
+      "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppAuth.dll",
+      "Size": 1085952
+    },
+    {
+      "Name": "FirebaseCppDatabase.dll",
+      "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppDatabase.dll",
+      "Size": 5263360
+    },
+    {
+      "Name": "lib_burst_generated.dll",
+      "Path": "Game 1_Data\\Plugins\\x86_64\\lib_burst_generated.dll",
+      "Size": 565248
+    },
+    {
+      "Name": "browscap.ini",
+      "Path": "MonoBleedingEdge\\etc\\mono\\browscap.ini",
+      "Size": 311984
+    },
+    {
+      "Name": "config",
+      "Path": "MonoBleedingEdge\\etc\\mono\\config",
+      "Size": 3815
+    },
+    {
+      "Name": "lib_burst_generated.txt",
+      "Path": "Game 1_BurstDebugInformation_DoNotShip\\Data\\Plugins\\x86_64\\lib_burst_generated.txt",
+      "Size": 139052
+    },
+    {
+      "Name": "DefaultWsdlHelpGenerator.aspx",
+      "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575
+    },
+    {
+      "Name": "machine.config",
+      "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\machine.config",
+      "Size": 29066
+    },
+    {
+      "Name": "settings.map",
+      "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\settings.map",
+      "Size": 2622
+    },
+    {
+      "Name": "web.config",
+      "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\web.config",
+      "Size": 11635
+    },
+    {
+      "Name": "DefaultWsdlHelpGenerator.aspx",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575
+    },
+    {
+      "Name": "machine.config",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\machine.config",
+      "Size": 33598
+    },
+    {
+      "Name": "settings.map",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\settings.map",
+      "Size": 2622
+    },
+    {
+      "Name": "web.config",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\web.config",
+      "Size": 18802
+    },
+    {
+      "Name": "DefaultWsdlHelpGenerator.aspx",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575
+    },
+    {
+      "Name": "machine.config",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\machine.config",
+      "Size": 34056
+    },
+    {
+      "Name": "settings.map",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\settings.map",
+      "Size": 2622
+    },
+    {
+      "Name": "web.config",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\web.config",
+      "Size": 18811
+    },
+    {
+      "Name": "config.xml",
+      "Path": "MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml",
+      "Size": 25817
+    },
+    {
+      "Name": "Compat.browser",
+      "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\Browsers\\Compat.browser",
+      "Size": 1605
+    },
+    {
+      "Name": "Compat.browser",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\Browsers\\Compat.browser",
+      "Size": 1605
+    },
+    {
+      "Name": "Compat.browser",
+      "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\Browsers\\Compat.browser",
+      "Size": 1605
+    }
+  ]
+}
