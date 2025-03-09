@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "727646387245",
+    "firebase_url": "https://game1-gamedata-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "game1-gamedata",
+    "storage_bucket": "game1-gamedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727646387245:android:016ef21f83b5a3a2628ca4",
+        "android_client_info": {
+          "package_name": "com.game1gamedata.firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfpAonUmZAMj7ZLhU5Y03rCMwClqcjTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
