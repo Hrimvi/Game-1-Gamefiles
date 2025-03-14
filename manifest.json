@@ -1,1125 +1,1349 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Files": [
     {
       "Name": "Game 1.exe",
       "Path": "Game 1.exe",
-      "Size": 666624
+      "Size": 666624,
+      "Hash": "98aedd6e0a968eee5e7ebcbb3a79ec613e4aed5bcd0ccd37e2877c7b381bb63c"
     },
     {
       "Name": "UnityCrashHandler64.exe",
       "Path": "UnityCrashHandler64.exe",
-      "Size": 1114136
+      "Size": 1114136,
+      "Hash": "61d2d71d74597923e1dc37e2922b0027780d7808af458d27e1595ab33c087fa6"
     },
     {
       "Name": "UnityPlayer.dll",
       "Path": "UnityPlayer.dll",
-      "Size": 30919704
+      "Size": 30919704,
+      "Hash": "add122fdc64fe4b1bfb511f8f7ec86338ccd28f87c5e88988361e9f7fc81bb35"
     },
     {
       "Name": "app.info",
       "Path": "Game 1_Data\\app.info",
-      "Size": 21
+      "Size": 21,
+      "Hash": "4a4a81d12c7d76ed258260e88f383fca58f9207253669a8abd673a91c1ebb572"
     },
     {
       "Name": "boot.config",
       "Path": "Game 1_Data\\boot.config",
-      "Size": 207
+      "Size": 207,
+      "Hash": "497f9dbb34279557e33bac59475d71e725d0cd1a61cd5272920370773ec90ed7"
     },
     {
       "Name": "globalgamemanagers",
       "Path": "Game 1_Data\\globalgamemanagers",
-      "Size": 356412
+      "Size": 356196,
+      "Hash": "d070b51826c3ffd38e0570d4e7d7fb025a12f8bf48ec805505b98741966e467b"
     },
     {
       "Name": "globalgamemanagers.assets",
       "Path": "Game 1_Data\\globalgamemanagers.assets",
-      "Size": 3380336
+      "Size": 3380336,
+      "Hash": "fcb6c5382199cbf5656d645e1ec4f62fca09d69ef41828ff533a5ad3059df10a"
     },
     {
       "Name": "globalgamemanagers.assets.resS",
       "Path": "Game 1_Data\\globalgamemanagers.assets.resS",
-      "Size": 15065664
+      "Size": 15065664,
+      "Hash": "802bacca8373647a74f750a434b3ae578a2934f6dfc9fb56cbf5542a27707540"
     },
     {
       "Name": "level0",
       "Path": "Game 1_Data\\level0",
-      "Size": 2533684
+      "Size": 51656,
+      "Hash": "a99a80675a3e2ee4da313fbb8fdc05635dc1384bb86e9f51a83c0939273ffb91"
     },
     {
       "Name": "level0.resS",
       "Path": "Game 1_Data\\level0.resS",
-      "Size": 7290528
+      "Size": 131232,
+      "Hash": "003395a68e54b50c7758ee0063ee80f1fab500c81b0315423fee9fcddcd27b3a"
     },
     {
       "Name": "level1",
       "Path": "Game 1_Data\\level1",
-      "Size": 51712
+      "Size": 2533764,
+      "Hash": "5f3c571c1d9772cc1e55684c2829d34ea05728ba9ff9a6ffcb29c61bfea03159"
     },
     {
       "Name": "level1.resS",
       "Path": "Game 1_Data\\level1.resS",
-      "Size": 131232
+      "Size": 7290528,
+      "Hash": "179b115be8b428693e279a42b357f3969f1d30bc0a4b71cfa632d18f53dc309e"
     },
     {
       "Name": "resources.assets",
       "Path": "Game 1_Data\\resources.assets",
-      "Size": 868728
+      "Size": 9117712,
+      "Hash": "f9d5597eaa2b9964b4db11646b9358550b05c48845a748100942fb9ec0e9d39c"
     },
     {
       "Name": "resources.assets.resS",
       "Path": "Game 1_Data\\resources.assets.resS",
-      "Size": 475680
+      "Size": 276859264,
+      "Hash": "74551f41e22cad810145b894d23cc1d61744922877aa48fc3c5c207802bef429"
     },
     {
       "Name": "RuntimeInitializeOnLoads.json",
       "Path": "Game 1_Data\\RuntimeInitializeOnLoads.json",
-      "Size": 6534
+      "Size": 6534,
+      "Hash": "de8af5bdcaf28dd4dbd6b1ce1b32b3e4f0f55e088c896b4a36eed45613ee2a09"
     },
     {
       "Name": "ScriptingAssemblies.json",
       "Path": "Game 1_Data\\ScriptingAssemblies.json",
-      "Size": 5807
+      "Size": 5807,
+      "Hash": "86cc203c5142c2ceb99bad56f6ba8391a17474da017820c60f8b2acf651223cc"
     },
     {
       "Name": "sharedassets0.assets",
       "Path": "Game 1_Data\\sharedassets0.assets",
-      "Size": 104123996
+      "Size": 83440,
+      "Hash": "08b315ba77cbdb9fb943fb18f1ac705055d623e2655a18c969b23f3aadd314b5"
     },
     {
       "Name": "sharedassets0.assets.resS",
       "Path": "Game 1_Data\\sharedassets0.assets.resS",
-      "Size": 609287984
+      "Size": 5827376,
+      "Hash": "c0a8ffcb087fdb8acec780da88f6ef4ee890c101468bc9d6baa713f8b8b83cab"
     },
     {
       "Name": "sharedassets1.assets",
       "Path": "Game 1_Data\\sharedassets1.assets",
-      "Size": 5184
+      "Size": 95826004,
+      "Hash": "f3bc4d76913a03b69a3c05dd3f266aa25d5bbb3a8b00d924c754d1403017b0ee"
     },
     {
       "Name": "sharedassets1.assets.resS",
       "Path": "Game 1_Data\\sharedassets1.assets.resS",
-      "Size": 633616
+      "Size": 327710640,
+      "Hash": "be73fbd12b8b246517f56195e259a7abf25437af62525c2c94a87684132374c5"
     },
     {
       "Name": "Assembly-CSharp.dll",
       "Path": "Game 1_Data\\Managed\\Assembly-CSharp.dll",
-      "Size": 585728
+      "Size": 585728,
+      "Hash": "ff6a326cb75ac1003cb075975b0856b57730e528ba0fe290ef014df44cff57d4"
     },
     {
       "Name": "Cinemachine.dll",
       "Path": "Game 1_Data\\Managed\\Cinemachine.dll",
-      "Size": 312320
+      "Size": 312320,
+      "Hash": "9b6d872b0239d15ecf26018ffdde608f0fb4079fe8a6d753cc208d3588dcc141"
     },
     {
       "Name": "Firebase.App.dll",
       "Path": "Game 1_Data\\Managed\\Firebase.App.dll",
-      "Size": 90624
+      "Size": 90624,
+      "Hash": "3a182ee3351d2199407f9c49ac2489a906561e4c1f111a38f58a3b6d68cb5e1d"
     },
     {
       "Name": "Firebase.Auth.dll",
       "Path": "Game 1_Data\\Managed\\Firebase.Auth.dll",
-      "Size": 92672
+      "Size": 92672,
+      "Hash": "897df183020759dccb7e54834ce2af54ae265d8663ccaac6e1bb770b461d32c7"
     },
     {
       "Name": "Firebase.Database.dll",
       "Path": "Game 1_Data\\Managed\\Firebase.Database.dll",
-      "Size": 75776
+      "Size": 75776,
+      "Hash": "28725f82f8e52162e9e817c7a773a546661ea23732ffac2b0dd44dafee261dfc"
     },
     {
       "Name": "Firebase.Platform.dll",
       "Path": "Game 1_Data\\Managed\\Firebase.Platform.dll",
-      "Size": 30720
+      "Size": 30720,
+      "Hash": "202d7d964b62ba0c41565845b693ba40a172d81bb75054bab4b2dc6adf876aa1"
     },
     {
       "Name": "Firebase.TaskExtension.dll",
       "Path": "Game 1_Data\\Managed\\Firebase.TaskExtension.dll",
-      "Size": 8192
+      "Size": 8192,
+      "Hash": "1d7e749bcc45149d091811794d1487762b8462ede4f2893070b6aa0a3ba3c96d"
     },
     {
       "Name": "Google.MiniJson.dll",
       "Path": "Game 1_Data\\Managed\\Google.MiniJson.dll",
-      "Size": 10240
+      "Size": 10240,
+      "Hash": "4e5cdb99dc3c3eff20ed8c7d79e082ecbfc70b49f5ef306d4f6d4149f70a3751"
     },
     {
       "Name": "Mono.Security.dll",
       "Path": "Game 1_Data\\Managed\\Mono.Security.dll",
-      "Size": 241152
+      "Size": 241152,
+      "Hash": "b092fe368431d0da453fb7136c6943ea30d468b76ddaf7206b4de662fe7f6605"
     },
     {
       "Name": "mscorlib.dll",
       "Path": "Game 1_Data\\Managed\\mscorlib.dll",
-      "Size": 4631552
+      "Size": 4631552,
+      "Hash": "d361412eeabebfa3cbd3b0fcc4b0b4b92e52fa30f8ab7ccd4c81ad9fa71b36f3"
     },
     {
       "Name": "netstandard.dll",
       "Path": "Game 1_Data\\Managed\\netstandard.dll",
-      "Size": 90112
+      "Size": 90112,
+      "Hash": "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5"
     },
     {
       "Name": "Newtonsoft.Json.dll",
       "Path": "Game 1_Data\\Managed\\Newtonsoft.Json.dll",
-      "Size": 691712
+      "Size": 691712,
+      "Hash": "a56146202232958f46bd6a28b5a7da166aea123ee0d646735a46e5c341dfbf1f"
     },
     {
       "Name": "Purchasing.Common.dll",
       "Path": "Game 1_Data\\Managed\\Purchasing.Common.dll",
-      "Size": 13824
+      "Size": 13824,
+      "Hash": "8361f8a461d22f074c515839be4704df777bb1c36197350fbcb39f09ea5b069b"
     },
     {
       "Name": "System.ComponentModel.Composition.dll",
       "Path": "Game 1_Data\\Managed\\System.ComponentModel.Composition.dll",
-      "Size": 257024
+      "Size": 257024,
+      "Hash": "6a9acb0b24143ec3f9a8c17217e6c3d51bf052e7029571f1d7ce26b7a790c716"
     },
     {
       "Name": "System.Configuration.dll",
       "Path": "Game 1_Data\\Managed\\System.Configuration.dll",
-      "Size": 124928
+      "Size": 124928,
+      "Hash": "83e5c4c39a5f46158e3afb59d340e452b52f5d9c1ac1ca7be9e7f6fccf1db826"
     },
     {
       "Name": "System.Core.dll",
       "Path": "Game 1_Data\\Managed\\System.Core.dll",
-      "Size": 1113088
+      "Size": 1113088,
+      "Hash": "f06485beb3d6b67e4eec1325882edb83e54a85eb39bfb3b5843371d0a253d41b"
     },
     {
       "Name": "System.Data.DataSetExtensions.dll",
       "Path": "Game 1_Data\\Managed\\System.Data.DataSetExtensions.dll",
-      "Size": 29696
+      "Size": 29696,
+      "Hash": "e7cfc27e4350fd3f995f1cb473074e425d68546ef2e0b8eb826d0fba9a2ad8cb"
     },
     {
       "Name": "System.Data.dll",
       "Path": "Game 1_Data\\Managed\\System.Data.dll",
-      "Size": 2118656
+      "Size": 2118656,
+      "Hash": "41b7c2cd5db34095c5391d1a89a12aba1f1fdb074e6736521b886fccadac68b5"
     },
     {
       "Name": "System.dll",
       "Path": "Game 1_Data\\Managed\\System.dll",
-      "Size": 2637824
+      "Size": 2637824,
+      "Hash": "2cf93ac5d6d80670cd033141ab4b4c1fea13725b9be519d5113387ce7cab7ca6"
     },
     {
       "Name": "System.Drawing.dll",
       "Path": "Game 1_Data\\Managed\\System.Drawing.dll",
-      "Size": 489984
+      "Size": 489984,
+      "Hash": "bfea942f8d2147952c54058f5fd4ef3b47ebc3d94497a0188de6ba4b17e3ae61"
     },
     {
       "Name": "System.EnterpriseServices.dll",
       "Path": "Game 1_Data\\Managed\\System.EnterpriseServices.dll",
-      "Size": 44544
+      "Size": 44544,
+      "Hash": "40971c782e7767671e6871672b3afac95dbd3022f7e64b2c3f90983119e02eb0"
     },
     {
       "Name": "System.IO.Compression.dll",
       "Path": "Game 1_Data\\Managed\\System.IO.Compression.dll",
-      "Size": 114688
+      "Size": 114688,
+      "Hash": "8180e0a65a3152245ba1c9922699e8c73a07ef95d7ac5a94e0f7e42872e27911"
     },
     {
       "Name": "System.IO.Compression.FileSystem.dll",
       "Path": "Game 1_Data\\Managed\\System.IO.Compression.FileSystem.dll",
-      "Size": 18432
+      "Size": 18432,
+      "Hash": "bc17d27138e3875bfe2e1ed6ebb80c146f124d92f9be8b5f328caf8d78fbd4a1"
     },
     {
       "Name": "System.Net.Http.dll",
       "Path": "Game 1_Data\\Managed\\System.Net.Http.dll",
-      "Size": 121344
+      "Size": 121344,
+      "Hash": "f210e3c073116eac1cedfaecac5a9b6243fad88011bb90753db7bbd2884d5e03"
     },
     {
       "Name": "System.Numerics.dll",
       "Path": "Game 1_Data\\Managed\\System.Numerics.dll",
-      "Size": 119296
+      "Size": 119296,
+      "Hash": "6b78809f4109273e83a999e6a65c1102528554381d182c11557a3b78b84311f2"
     },
     {
       "Name": "System.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\System.Runtime.dll",
-      "Size": 12288
+      "Size": 12288,
+      "Hash": "e0a7334b7ba419aaab6bd3bb6992d693e689341a9178172c9bf99c2aa6a085bd"
     },
     {
       "Name": "System.Runtime.Serialization.dll",
       "Path": "Game 1_Data\\Managed\\System.Runtime.Serialization.dll",
-      "Size": 934400
+      "Size": 934400,
+      "Hash": "71c8578a762dcc4cdd35bd735cac6668cbcf3b16a1b773210669e62a40479a36"
     },
     {
       "Name": "System.Security.dll",
       "Path": "Game 1_Data\\Managed\\System.Security.dll",
-      "Size": 320000
+      "Size": 320000,
+      "Hash": "12fc90cd57d03facac7003893201f03adb3c8d2a6de237761deb031cea1dea52"
     },
     {
       "Name": "System.ServiceModel.Internals.dll",
       "Path": "Game 1_Data\\Managed\\System.ServiceModel.Internals.dll",
-      "Size": 215040
+      "Size": 215040,
+      "Hash": "3031c24d04d7bc00f9364492bafc85e10cd882e8fc082de430ace523f255604f"
     },
     {
       "Name": "System.Transactions.dll",
       "Path": "Game 1_Data\\Managed\\System.Transactions.dll",
-      "Size": 35328
+      "Size": 35328,
+      "Hash": "19dc46fcac4d39c54dd724554955b0b05c37d1b34d8a55c2370ba2d60af3b31a"
     },
     {
       "Name": "System.Xml.dll",
       "Path": "Game 1_Data\\Managed\\System.Xml.dll",
-      "Size": 3160064
+      "Size": 3160064,
+      "Hash": "4b79373e73a4565c02d6c1c21e4ef76c2b0f54fc7926221411fe2c096e5eedef"
     },
     {
       "Name": "System.Xml.Linq.dll",
       "Path": "Game 1_Data\\Managed\\System.Xml.Linq.dll",
-      "Size": 136704
+      "Size": 136704,
+      "Hash": "28a5fbf10892136bd86a9c451bcca728cc2e589867c262f3e4bfd47713c83d8a"
     },
     {
       "Name": "unity-websocket-sharp.dll",
       "Path": "Game 1_Data\\Managed\\unity-websocket-sharp.dll",
-      "Size": 223232
+      "Size": 223232,
+      "Hash": "d171189eb5463b798c49b4b47e876cfb9a6f0ecdb5802e8ceb81c5ba06e323da"
     },
     {
       "Name": "Unity.AI.Navigation.dll",
       "Path": "Game 1_Data\\Managed\\Unity.AI.Navigation.dll",
-      "Size": 19968
+      "Size": 19968,
+      "Hash": "1a58e9d933fac3f1a2c30769dbabe5fa941cfba0f1bea9c396f78c3c71efade2"
     },
     {
       "Name": "Unity.Analytics.DataPrivacy.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Analytics.DataPrivacy.dll",
-      "Size": 8704
+      "Size": 8704,
+      "Hash": "78bfddc4f5095035f44326eb095166691018ca357186b3918f4870ab4ea7a192"
     },
     {
       "Name": "Unity.Burst.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Burst.dll",
-      "Size": 317440
+      "Size": 317440,
+      "Hash": "680c3a13588a48038f330825a26b43a0c75ecc94728031643c5022cb96588441"
     },
     {
       "Name": "Unity.Burst.Unsafe.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Burst.Unsafe.dll",
-      "Size": 5632
+      "Size": 5632,
+      "Hash": "9d9c1ff52411decbee5d9f0d1cd61ebeaa222077aa77a52101ea3debafae98e2"
     },
     {
       "Name": "Unity.Collections.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Collections.dll",
-      "Size": 364544
+      "Size": 364544,
+      "Hash": "b01ceab06a55877a3199b364ae0b9a16e7be9b1bfbcfb28483e4da0d43578cdb"
     },
     {
       "Name": "Unity.Collections.LowLevel.ILSupport.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Collections.LowLevel.ILSupport.dll",
-      "Size": 4096
+      "Size": 4096,
+      "Hash": "dbd7fb37e353bf6609938be1565c14c952ff6b6a67d2e6436ae3147a084d40f1"
     },
     {
       "Name": "Unity.Mathematics.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Mathematics.dll",
-      "Size": 741376
+      "Size": 741376,
+      "Hash": "4b5e34d5ff614661f6afb9a6b99e76fb58449b8d80e3b86e4c06343e41285aba"
     },
     {
       "Name": "Unity.Multiplayer.Tools.Adapters.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Adapters.dll",
-      "Size": 14848
+      "Size": 14848,
+      "Hash": "27c1d919315ed604d1a094233ba4591747c4c310cc7a5ad68c48d35232ed0eb0"
     },
     {
       "Name": "Unity.Multiplayer.Tools.Adapters.Ngo1.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Adapters.Ngo1.dll",
-      "Size": 8192
+      "Size": 8192,
+      "Hash": "ddfe4d2710da0ad5450749545b96658cd7c3b7fbe638ef43559ea0ae9da774ec"
     },
     {
       "Name": "Unity.Multiplayer.Tools.Common.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Common.dll",
-      "Size": 31232
+      "Size": 31232,
+      "Hash": "9cf7e65b86fd0e05eec829176f7e14f4097d023dd5f29fe9d5b495ebb62bf6e7"
     },
     {
       "Name": "Unity.Multiplayer.Tools.Initialization.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.Initialization.dll",
-      "Size": 6144
+      "Size": 6144,
+      "Hash": "1366beb6665d64e45fc67a2c69a4813fbdc4f4fe6f0706e21b01818ae4d254cb"
     },
     {
       "Name": "Unity.Multiplayer.Tools.MetricEvents.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.MetricEvents.dll",
-      "Size": 5632
+      "Size": 5632,
+      "Hash": "bfbed0c8bf355745c62ceb141769578d7afc602e9c46da026e724b8661deb1b6"
     },
     {
       "Name": "Unity.Multiplayer.Tools.MetricTestData.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.MetricTestData.dll",
-      "Size": 11264
+      "Size": 11264,
+      "Hash": "285427700592f50176a1d510c347ced2aeac6e85c20ddd50a2ec606e9d14317e"
     },
     {
       "Name": "Unity.Multiplayer.Tools.MetricTypes.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.MetricTypes.dll",
-      "Size": 20992
+      "Size": 20992,
+      "Hash": "224c2ad57566afa6ad1e82c7aee21efc3f266fba9486385e59c28df0814a6bcd"
     },
     {
       "Name": "Unity.Multiplayer.Tools.NetStats.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStats.dll",
-      "Size": 55296
+      "Size": 55296,
+      "Hash": "ce5d53b955ffab951d9c497938ef0334f40ae7d090d622b76fab4a86d58739e1"
     },
     {
       "Name": "Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll",
-      "Size": 9728
+      "Size": 9728,
+      "Hash": "0af00afd6262f7be85437219acb17c6fd6225dbb80c6b911a5d56da017af91d5"
     },
     {
       "Name": "Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll",
-      "Size": 24064
+      "Size": 24064,
+      "Hash": "631c55399fb5f38011caf25144930597a86670422d5a90f2db2cdb77924d2794"
     },
     {
       "Name": "Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll",
-      "Size": 5120
+      "Size": 5120,
+      "Hash": "befcca3b7c3368249ab5490d634918be616843935d1b1d93752bccb42e0f5198"
     },
     {
       "Name": "Unity.Multiplayer.Tools.NetStatsReporting.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetStatsReporting.dll",
-      "Size": 5120
+      "Size": 5120,
+      "Hash": "1a22b633269e02f6b7ff357b49dca8b7af1cbaba1d89a46be470abb5cb579d5c"
     },
     {
       "Name": "Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll",
-      "Size": 14336
+      "Size": 14336,
+      "Hash": "20ada065174bc179e9082e11f3e98989014ad3ff6e0f9b54c34a1c7dac7e23f4"
     },
     {
       "Name": "Unity.Multiplayer.Tools.NetworkSolutionInterface.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll",
-      "Size": 6144
+      "Size": 6144,
+      "Hash": "22822941590c194fc2fede19652fc0fed3f537ce988b55465e89007ab90a5474"
     },
     {
       "Name": "Unity.Netcode.Components.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Netcode.Components.dll",
-      "Size": 70144
+      "Size": 70144,
+      "Hash": "80e932cd8323943615daa7d0d3c3f11b77ad42ade1b4f0dfa5de72a0c7faead1"
     },
     {
       "Name": "Unity.Netcode.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Netcode.Runtime.dll",
-      "Size": 355328
+      "Size": 355328,
+      "Hash": "f2b04729163d574dfd932e63109d3f1e1f42173826d6b01e5d48d66dd280742b"
     },
     {
       "Name": "Unity.Networking.Transport.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Networking.Transport.dll",
-      "Size": 163840
+      "Size": 163840,
+      "Hash": "cbce6e9c8a70ca2fb886699e725a85c09fffaf6f9718ef8bb20126dcc7e07b4d"
     },
     {
       "Name": "Unity.Postprocessing.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Postprocessing.Runtime.dll",
-      "Size": 162816
+      "Size": 162816,
+      "Hash": "30103b534a3bccac9a54ebe40858ba6427a43e542cdd3a2b6e760ebf1e711fe9"
     },
     {
       "Name": "Unity.Profiling.Core.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Profiling.Core.dll",
-      "Size": 10240
+      "Size": 10240,
+      "Hash": "c12c59720433f25557ec77a050af5ee9037b5a72ec5e1717fe4b9892667b96cc"
     },
     {
       "Name": "Unity.Recorder.Base.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Recorder.Base.dll",
-      "Size": 5632
+      "Size": 5632,
+      "Hash": "fd5cec773492760d62db6303030adc907d02fd77e43f5ea6f6482069e4e0d850"
     },
     {
       "Name": "Unity.Recorder.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Recorder.dll",
-      "Size": 6656
+      "Size": 6656,
+      "Hash": "10e475be5b9e365a49faa865028af9c0e55f3b4e8b48fa36258e278a82e65206"
     },
     {
       "Name": "Unity.RenderPipelines.Core.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.Core.Runtime.dll",
-      "Size": 527872
+      "Size": 527872,
+      "Hash": "8820ae4a5b3dc0e2fd594896dcbc13e3c9d19b3daf1197ad3ca1132f635443ee"
     },
     {
       "Name": "Unity.RenderPipelines.Core.ShaderLibrary.dll",
       "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.Core.ShaderLibrary.dll",
-      "Size": 4608
+      "Size": 4608,
+      "Hash": "9635c5afbbc8e5ae39091220ff34ce5755bf0674bc487cf885df23e374e29fd6"
     },
     {
       "Name": "Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
-      "Size": 7168
+      "Size": 7168,
+      "Hash": "701c0788322b16b96470802e01e729874c4c4db9318961f1fdebecb1baa607ca"
     },
     {
       "Name": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.HighDefinition.Runtime.dll",
-      "Size": 4808704
+      "Size": 4808704,
+      "Hash": "e080cddfd9ba845f077052e69b83b5813bee5927be301393b7d2a3266bfd58b2"
     },
     {
       "Name": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
       "Path": "Game 1_Data\\Managed\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
-      "Size": 4608
+      "Size": 4608,
+      "Hash": "d1e99950364bb38f9644dd7d53175631215c03b757047bc2459f49850e7f95dc"
     },
     {
       "Name": "Unity.Services.Analytics.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Analytics.dll",
-      "Size": 80384
+      "Size": 80384,
+      "Hash": "71474f175814b117a4c4bf648c0eac653c56f50379e0b04a698f75e8b5725ec7"
     },
     {
       "Name": "Unity.Services.Authentication.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Authentication.dll",
-      "Size": 115200
+      "Size": 115200,
+      "Hash": "1d8863f3e4bb1aa53e7e8a97b7ba9ce4296f1c4996eab0b06524dc90a3e59638"
     },
     {
       "Name": "Unity.Services.Core.Analytics.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Analytics.dll",
-      "Size": 5632
+      "Size": 5632,
+      "Hash": "25f101d5638dff6e9a252c1ded4d7f85b21cfed1465813f5b6c31f4bd4023fbe"
     },
     {
       "Name": "Unity.Services.Core.Configuration.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Configuration.dll",
-      "Size": 14336
+      "Size": 14336,
+      "Hash": "85c9e6fb84441e1782d1ad7f17967e5ba159caf359249623875f9e739de6465d"
     },
     {
       "Name": "Unity.Services.Core.Device.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Device.dll",
-      "Size": 6656
+      "Size": 6656,
+      "Hash": "5866387e0bc4eadf4a32bcb5d341d27f95775e85624b5dc580a13822f0c3e8c1"
     },
     {
       "Name": "Unity.Services.Core.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.dll",
-      "Size": 14336
+      "Size": 14336,
+      "Hash": "3d0d07ef9dcc5500329fd26c2a957817df57d5bcac9592776c8c9f6577bece32"
     },
     {
       "Name": "Unity.Services.Core.Environments.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Environments.dll",
-      "Size": 5632
+      "Size": 5632,
+      "Hash": "73dffb4906266c6fcff5229734e1778653f0323b9b569f257e473fb232452ac8"
     },
     {
       "Name": "Unity.Services.Core.Environments.Internal.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Environments.Internal.dll",
-      "Size": 5120
+      "Size": 5120,
+      "Hash": "9194b418b187b3965afeb571f1b25d346c42fbc0550d35f259be8d2dd45b6194"
     },
     {
       "Name": "Unity.Services.Core.Internal.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Internal.dll",
-      "Size": 71680
+      "Size": 71680,
+      "Hash": "3f8baa0e0ef1c56ee470463f4d2737bea064a36c6d5aafc34da9380d992976ac"
     },
     {
       "Name": "Unity.Services.Core.Networking.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Networking.dll",
-      "Size": 8192
+      "Size": 8192,
+      "Hash": "2ab950e39a2a08e55256c7a2eaf244f6a51647b7936112f9ee9f94b0fc81a097"
     },
     {
       "Name": "Unity.Services.Core.Registration.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Registration.dll",
-      "Size": 18432
+      "Size": 18432,
+      "Hash": "23b747e8125dfce9482cbe5f90b3674a53571633da2eac482a2c184c084bf9a8"
     },
     {
       "Name": "Unity.Services.Core.Scheduler.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Scheduler.dll",
-      "Size": 12800
+      "Size": 12800,
+      "Hash": "d6e97df4daa168e5fd2da42f704767f912ce839a1ec6f822b8e302518a9424de"
     },
     {
       "Name": "Unity.Services.Core.Telemetry.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Telemetry.dll",
-      "Size": 8704
+      "Size": 8704,
+      "Hash": "198b4c1ac257b9baf0d8a2e867e4ceadb119e747d5adb73ae733fddef4ef4aeb"
     },
     {
       "Name": "Unity.Services.Core.Threading.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Core.Threading.dll",
-      "Size": 7168
+      "Size": 7168,
+      "Hash": "e14339e018f3117a595c0fefce577559ccfe05fac282b1f66159688bfa472dcf"
     },
     {
       "Name": "Unity.Services.Multiplay.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Multiplay.dll",
-      "Size": 86016
+      "Size": 86016,
+      "Hash": "cbea5bba4d9a1392d1c3f2721940e39ccdde36a9dbea36720746fe23d521dd62"
     },
     {
       "Name": "Unity.Services.Multiplay.Sqp.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Multiplay.Sqp.dll",
-      "Size": 15360
+      "Size": 15360,
+      "Hash": "850cbe5f46e3db88df9c7d66cacfada5ed4bd1525e074bbd8d08cf6fce20c223"
     },
     {
       "Name": "Unity.Services.Multiplay.Wire.Internal.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Multiplay.Wire.Internal.dll",
-      "Size": 55808
+      "Size": 55808,
+      "Hash": "c54806e17957af017c86cb5afaddc803ea5f19ada337eb67ee8abb89976f01e0"
     },
     {
       "Name": "Unity.Services.Wire.Internal.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Services.Wire.Internal.dll",
-      "Size": 55296
+      "Size": 55296,
+      "Hash": "e6973a5aef0f416bc8406aa351b0312282bd55f46970db72ebc7052fe092ed2a"
     },
     {
       "Name": "Unity.TextMeshPro.dll",
       "Path": "Game 1_Data\\Managed\\Unity.TextMeshPro.dll",
-      "Size": 380416
+      "Size": 380416,
+      "Hash": "8e64010ba774a7331d0e91121d5e0acff5cf4ecfdbbe5eaf34b11834abd7079d"
     },
     {
       "Name": "Unity.Timeline.dll",
       "Path": "Game 1_Data\\Managed\\Unity.Timeline.dll",
-      "Size": 127488
+      "Size": 127488,
+      "Hash": "73be69b4430cac1a43c0af7fc3089c843db477904ee9eaed856628f40b02d8dc"
     },
     {
       "Name": "Unity.VisualEffectGraph.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.VisualEffectGraph.Runtime.dll",
-      "Size": 100352
+      "Size": 100352,
+      "Hash": "2c737700fbdbab53f42596fc442d437582d059964214db75a1088f2edd574668"
     },
     {
       "Name": "Unity.VisualScripting.Antlr3.Runtime.dll",
       "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.Antlr3.Runtime.dll",
-      "Size": 86016
+      "Size": 86016,
+      "Hash": "ed7ce205f66eafe39bbb5d084d42e7fe11cb4b386ff208e5d5110891be0b7b37"
     },
     {
       "Name": "Unity.VisualScripting.Core.dll",
       "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.Core.dll",
-      "Size": 625152
+      "Size": 625152,
+      "Hash": "fb331913299aad79c224fea468f1bf8959aa0bb526947fb22ab1718b2e01aa9f"
     },
     {
       "Name": "Unity.VisualScripting.Flow.dll",
       "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.Flow.dll",
-      "Size": 401408
+      "Size": 401408,
+      "Hash": "12b9e49b2df9baf24e27470acaa197217649c74b78a0a54ac636035d56641685"
     },
     {
       "Name": "Unity.VisualScripting.State.dll",
       "Path": "Game 1_Data\\Managed\\Unity.VisualScripting.State.dll",
-      "Size": 32256
+      "Size": 32256,
+      "Hash": "2869ad739a86f153e6cd8966da0f7e45fbfad36eeebf57adcb4284b1284f8cfb"
     },
     {
       "Name": "UnityEngine.AccessibilityModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.AccessibilityModule.dll",
-      "Size": 23576
+      "Size": 23576,
+      "Hash": "0f4a36d3f7c0b3e7d279efdc69ec659f3491ae16474cb6f3d212305e88111599"
     },
     {
       "Name": "UnityEngine.Advertisements.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Advertisements.dll",
-      "Size": 38400
+      "Size": 38400,
+      "Hash": "124afccafcd7b57aeeeafd4ab34d43df76978ad85d5cd81cd477b22bfb5860b3"
     },
     {
       "Name": "UnityEngine.AIModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.AIModule.dll",
-      "Size": 58392
+      "Size": 58392,
+      "Hash": "f220083ad00171a2c5192f2fe32714e58868b4925ab450c9d20f7ebf03235a37"
     },
     {
       "Name": "UnityEngine.AndroidJNIModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.AndroidJNIModule.dll",
-      "Size": 93720
+      "Size": 93720,
+      "Hash": "6005d10c7020fc893b5b91ad9448c5ef35bac35b1a6b521cd79ecd37076adadf"
     },
     {
       "Name": "UnityEngine.AnimationModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.AnimationModule.dll",
-      "Size": 163864
+      "Size": 163864,
+      "Hash": "af1dfc3a20e6ba7a6c153905634015cade77bd60c76233ec85ae309c1d59f4ce"
     },
     {
       "Name": "UnityEngine.ARModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ARModule.dll",
-      "Size": 21016
+      "Size": 21016,
+      "Hash": "2cac98d1515a4b457607e43f5f2b836a473945b5d2ef3b536d1e281e01f6cb6c"
     },
     {
       "Name": "UnityEngine.AssetBundleModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.AssetBundleModule.dll",
-      "Size": 32792
+      "Size": 32792,
+      "Hash": "f1f4de9d69b0fcbb6e03fcde80ba1d779796c8d824fc96357438b68e7f899f14"
     },
     {
       "Name": "UnityEngine.AudioModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.AudioModule.dll",
-      "Size": 70680
+      "Size": 70680,
+      "Hash": "a2ec5d24dbb2426be08605431d4a3f0da76a39c645a19d5a403535aed3b4d17f"
     },
     {
       "Name": "UnityEngine.ClothModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ClothModule.dll",
-      "Size": 26136
+      "Size": 26136,
+      "Hash": "37e273a290c8ab2e7323ab040604d37b711e28617b7d8eed8c01f0f343293544"
     },
     {
       "Name": "UnityEngine.ClusterInputModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ClusterInputModule.dll",
-      "Size": 21528
+      "Size": 21528,
+      "Hash": "e64e9f35ad71b63864a1a174dc0175b26ddd2dba14044add98c72ee09010679f"
     },
     {
       "Name": "UnityEngine.ClusterRendererModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ClusterRendererModule.dll",
-      "Size": 22040
+      "Size": 22040,
+      "Hash": "bd56c3c7310ba7e630c41b72ad46d0238d7e780d8752efc690a9fcccc69a2031"
     },
     {
       "Name": "UnityEngine.ContentLoadModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ContentLoadModule.dll",
-      "Size": 26648
+      "Size": 26648,
+      "Hash": "2073a183f9b98beeaf89f88dc9614b063a6c8cfae84b934695c61de6e27dfe84"
     },
     {
       "Name": "UnityEngine.CoreModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.CoreModule.dll",
-      "Size": 1380888
+      "Size": 1380888,
+      "Hash": "2a2c9cd45b0464391d3bdf8d1d5bf7bd172a5ea4702958778343033adb41f83f"
     },
     {
       "Name": "UnityEngine.CrashReportingModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.CrashReportingModule.dll",
-      "Size": 21016
+      "Size": 21016,
+      "Hash": "293feb84db681d0f7ff21817148fe4df23aaa838ac80ffd8561ee794b95c69dd"
     },
     {
       "Name": "UnityEngine.DirectorModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.DirectorModule.dll",
-      "Size": 24600
+      "Size": 24600,
+      "Hash": "f5bd2fd2a546a688cc1cfbeba64dca24579baebcbec4a1d5dcbdc928c25c67b5"
     },
     {
       "Name": "UnityEngine.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.dll",
-      "Size": 125976
+      "Size": 125976,
+      "Hash": "c6c60d04719570f000cd90dede85b801427a43835a991a138466299aeeedb684"
     },
     {
       "Name": "UnityEngine.DSPGraphModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.DSPGraphModule.dll",
-      "Size": 29208
+      "Size": 29208,
+      "Hash": "8c47c63a0aac800f7cdd9908d524d4886b8fe820248a287af64468ca0b84fb99"
     },
     {
       "Name": "UnityEngine.GameCenterModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.GameCenterModule.dll",
-      "Size": 39960
+      "Size": 39960,
+      "Hash": "c4ad8c466fec47c6474299e605ae9cfc8fe1339a19c9f745ef78720305d0af73"
     },
     {
       "Name": "UnityEngine.GIModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.GIModule.dll",
-      "Size": 19992
+      "Size": 19992,
+      "Hash": "9d5d3b15913fb50d4cf235465c1bb093806e9c07ee21de67225ec7d2d2e9ff73"
     },
     {
       "Name": "UnityEngine.GridModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.GridModule.dll",
-      "Size": 25112
+      "Size": 25112,
+      "Hash": "f210f802e748e4f4f05ed0bcd79e34e2b676bf17bcb5ee245e6a2b2aabd56648"
     },
     {
       "Name": "UnityEngine.HotReloadModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.HotReloadModule.dll",
-      "Size": 19992
+      "Size": 19992,
+      "Hash": "f0c935646b5577b47c442d2170fab73da2285d2c8b7f2d79983dd13b85caa436"
     },
     {
       "Name": "UnityEngine.ImageConversionModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ImageConversionModule.dll",
-      "Size": 24088
+      "Size": 24088,
+      "Hash": "4bfad64e29c6aca36f62589fd40e0797bbdcd901c17acd388e8febf911d664dc"
     },
     {
       "Name": "UnityEngine.IMGUIModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.IMGUIModule.dll",
-      "Size": 189464
+      "Size": 189464,
+      "Hash": "7a23151b9725ba5269ba6de1f10de428dbd94780e905794876ea500fd666fc34"
     },
     {
       "Name": "UnityEngine.InputLegacyModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.InputLegacyModule.dll",
-      "Size": 38936
+      "Size": 38936,
+      "Hash": "4a91d3439f9f7b7df6e78bce7808df90cd359dc88e0ecaba84e7039d0578414a"
     },
     {
       "Name": "UnityEngine.InputModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.InputModule.dll",
-      "Size": 23576
+      "Size": 23576,
+      "Hash": "1c11f34d84a26689177870bd656846e27bebab3c0be6b838ca57c97ed2fa24f8"
     },
     {
       "Name": "UnityEngine.JSONSerializeModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.JSONSerializeModule.dll",
-      "Size": 22040
+      "Size": 22040,
+      "Hash": "875ade7d9cfaf63688434d2f43c32795be7871a5f9c5b3ba0d1770e7b8a4e92a"
     },
     {
       "Name": "UnityEngine.LocalizationModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.LocalizationModule.dll",
-      "Size": 21016
+      "Size": 21016,
+      "Hash": "721c103a3fb4367ceb09bdff27b3d05fa74d2a41fb9cdf9127eb60b1d5689666"
     },
     {
       "Name": "UnityEngine.NVIDIAModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.NVIDIAModule.dll",
-      "Size": 33816
+      "Size": 33816,
+      "Hash": "760f3baa33953e546595a37671547d7cf9a49dc1af5d84440ab8789751356a9e"
     },
     {
       "Name": "UnityEngine.ParticleSystemModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ParticleSystemModule.dll",
-      "Size": 160792
+      "Size": 160792,
+      "Hash": "30d9196b5d569ee359ca4b7f14122a770e07850bdf379d0db511739271439bc4"
     },
     {
       "Name": "UnityEngine.PerformanceReportingModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.PerformanceReportingModule.dll",
-      "Size": 20504
+      "Size": 20504,
+      "Hash": "19502d1cbb2a493b23108af9cda0c09f430c613f2931804e3a15cd777e068f43"
     },
     {
       "Name": "UnityEngine.Physics2DModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Physics2DModule.dll",
-      "Size": 141336
+      "Size": 141336,
+      "Hash": "183315953fb51de595daaddf0f162dabf747c698c1462a752852a9f80a5e7150"
     },
     {
       "Name": "UnityEngine.PhysicsModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.PhysicsModule.dll",
-      "Size": 138264
+      "Size": 138264,
+      "Hash": "5ca33fbbb23947c59327ec030ae303179e3b94175a761f67ced9fcb865ece524"
     },
     {
       "Name": "UnityEngine.ProfilerModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ProfilerModule.dll",
-      "Size": 19992
+      "Size": 19992,
+      "Hash": "b8bb98ac42c23286a073e712ed0f3eff98ceecc5c9743f972b0bd8caccd7e471"
     },
     {
       "Name": "UnityEngine.PropertiesModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.PropertiesModule.dll",
-      "Size": 151576
+      "Size": 151576,
+      "Hash": "6504a2491edf0094182e64406d6c0d4295400ad134ea9113f55681cc3e03330c"
     },
     {
       "Name": "UnityEngine.Purchasing.AppleCore.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.AppleCore.dll",
-      "Size": 6144
+      "Size": 6144,
+      "Hash": "fbadea07b4ace0584a900338a66e56b27df154f2c4e4beb74fc82f2920d181d7"
     },
     {
       "Name": "UnityEngine.Purchasing.AppleMacosStub.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.AppleMacosStub.dll",
-      "Size": 6144
+      "Size": 6144,
+      "Hash": "551691b3e9a00d114b9b56856b925ed368831ecfb2dea1dda4ced1e1219f6a50"
     },
     {
       "Name": "UnityEngine.Purchasing.AppleStub.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.AppleStub.dll",
-      "Size": 6144
+      "Size": 6144,
+      "Hash": "c144ff1fb3b8de605b1c00d0d6cd45e5f9d9979a450da7720729cbe0be977934"
     },
     {
       "Name": "UnityEngine.Purchasing.Codeless.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.Codeless.dll",
-      "Size": 23040
+      "Size": 23040,
+      "Hash": "5ec9b73a29ad91e6a9189b2f355045abf513e6619d4ab8f01091951741892a9e"
     },
     {
       "Name": "UnityEngine.Purchasing.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.dll",
-      "Size": 62464
+      "Size": 62464,
+      "Hash": "2928cddc1a3ea1209e8685f6fcebe24d1afb1d6c4c43fa0fa064cfe3a60813cc"
     },
     {
       "Name": "UnityEngine.Purchasing.SecurityCore.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.SecurityCore.dll",
-      "Size": 8704
+      "Size": 8704,
+      "Hash": "01ce7b28767f8d9ebbb5d2f3a153cb54de39060619e3c419fe0e3e3f22544119"
     },
     {
       "Name": "UnityEngine.Purchasing.SecurityStub.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.SecurityStub.dll",
-      "Size": 7168
+      "Size": 7168,
+      "Hash": "66f5dcbee46f2987a03358d3cfb014f15df6e3e42ce037c006b638144e932438"
     },
     {
       "Name": "UnityEngine.Purchasing.Stores.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.Stores.dll",
-      "Size": 196608
+      "Size": 196608,
+      "Hash": "3ed9fd3b4b52f3dd2a43f6927a3239d64ef8b151a61fd84ccddcc896b48cf31b"
     },
     {
       "Name": "UnityEngine.Purchasing.WinRTCore.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.WinRTCore.dll",
-      "Size": 7168
+      "Size": 7168,
+      "Hash": "9df51697363ad905f453bcfab7668c736b306c5e0f982225c8855a9b5858b378"
     },
     {
       "Name": "UnityEngine.Purchasing.WinRTStub.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.Purchasing.WinRTStub.dll",
-      "Size": 5120
+      "Size": 5120,
+      "Hash": "10513606a36c3a24a329c2f4f3fc9ba0813489f51ba74e7e8923dee445480e71"
     },
     {
       "Name": "UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
-      "Size": 19992
+      "Size": 19992,
+      "Hash": "23fbf99414263003d1d5158d0eefba5260e7c67d9a08f00e22878b7702c0b379"
     },
     {
       "Name": "UnityEngine.ScreenCaptureModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.ScreenCaptureModule.dll",
-      "Size": 21016
+      "Size": 21016,
+      "Hash": "c4d06b53e1dcb5df99b77771f4cdf9a8b158bcdf38c1067f6ef1b6afe435abd8"
     },
     {
       "Name": "UnityEngine.SharedInternalsModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.SharedInternalsModule.dll",
-      "Size": 32792
+      "Size": 32792,
+      "Hash": "2329ebfc8cf5c9916cb66c0d6afbe104fe60156f5fd471ef7e4bcbf9a9e24443"
     },
     {
       "Name": "UnityEngine.SpatialTracking.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.SpatialTracking.dll",
-      "Size": 11776
+      "Size": 11776,
+      "Hash": "9fbd43f6f8608cc9cc4defa776feb529e857a25a4970830ad83d429724b850e5"
     },
     {
       "Name": "UnityEngine.SpriteMaskModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.SpriteMaskModule.dll",
-      "Size": 21528
+      "Size": 21528,
+      "Hash": "9fdd8e6575dbfe46d8597a1ee84f8842e8eda10f063c2bbe6232b2de8204268c"
     },
     {
       "Name": "UnityEngine.SpriteShapeModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.SpriteShapeModule.dll",
-      "Size": 26136
+      "Size": 26136,
+      "Hash": "6a595b97360be11584d58a464d26703766098a612441158243cd91c9f1bc0611"
     },
     {
       "Name": "UnityEngine.StreamingModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.StreamingModule.dll",
-      "Size": 20504
+      "Size": 20504,
+      "Hash": "70ea05f81add1d64538ab1658eab21b27ffde165ed3d020aed56823dd430d00e"
     },
     {
       "Name": "UnityEngine.SubstanceModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.SubstanceModule.dll",
-      "Size": 24600
+      "Size": 24600,
+      "Hash": "811a12f38fca4479a20059cf4527c15535f85391cbaa6d7335fd1972c9a3fc78"
     },
     {
       "Name": "UnityEngine.SubsystemsModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.SubsystemsModule.dll",
-      "Size": 34840
+      "Size": 34840,
+      "Hash": "3477be090cb00959bdd950f413ba6568c89019bd982eb7ec1fe336cf40a1e481"
     },
     {
       "Name": "UnityEngine.TerrainModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.TerrainModule.dll",
-      "Size": 100888
+      "Size": 100888,
+      "Hash": "13ea1ac5f81f6cbb30eb250e45d428778b1a0c42d6bffe8db996f0fd53425a1d"
     },
     {
       "Name": "UnityEngine.TerrainPhysicsModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.TerrainPhysicsModule.dll",
-      "Size": 21016
+      "Size": 21016,
+      "Hash": "afc3a4b19b5ed9d0dd3065a3da32972e190f1fd33b06100999cff449273e49dd"
     },
     {
       "Name": "UnityEngine.TextCoreFontEngineModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.TextCoreFontEngineModule.dll",
-      "Size": 72216
+      "Size": 72216,
+      "Hash": "81f53d52b2e647726030ba331f431561ae856ef15d269c674d4b1b34b4e7493c"
     },
     {
       "Name": "UnityEngine.TextCoreTextEngineModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.TextCoreTextEngineModule.dll",
-      "Size": 249368
+      "Size": 249368,
+      "Hash": "e55cb98c1448d547afaf49a82400c1c73aec6a3b7329e19e5e765c17651486a7"
     },
     {
       "Name": "UnityEngine.TextRenderingModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.TextRenderingModule.dll",
-      "Size": 38936
+      "Size": 38936,
+      "Hash": "a9e2842a6de5d2c63d74d57d9e29eea9c74fe18618036b13cba46e02d9cb7111"
     },
     {
       "Name": "UnityEngine.TilemapModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.TilemapModule.dll",
-      "Size": 46616
+      "Size": 46616,
+      "Hash": "74f71c791107e0e1981eae02294ee0b6a0c2cec1b13a50570c40cea35f8a5122"
     },
     {
       "Name": "UnityEngine.TLSModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.TLSModule.dll",
-      "Size": 26648
+      "Size": 26648,
+      "Hash": "86bd6a743193df0eff6b95ba8d274abc542191da858eefef2b61eafe80edbeac"
     },
     {
       "Name": "UnityEngine.UI.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UI.dll",
-      "Size": 264704
+      "Size": 264704,
+      "Hash": "2a0a242605e5f512ffd29de2d466488a82f933d4976523b9961469621e10c13f"
     },
     {
       "Name": "UnityEngine.UIElementsModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UIElementsModule.dll",
-      "Size": 1520152
+      "Size": 1520152,
+      "Hash": "360c49eaf92b222e9ff69df5cfb9e7786b697ce19957d9d0c4f0295684874423"
     },
     {
       "Name": "UnityEngine.UIModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UIModule.dll",
-      "Size": 36376
+      "Size": 36376,
+      "Hash": "8d27e18005c1d93dd1a22ed63c482365ad784142bedcc3415901f08c16e37fef"
     },
     {
       "Name": "UnityEngine.UmbraModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UmbraModule.dll",
-      "Size": 19992
+      "Size": 19992,
+      "Hash": "f493f2032c965a589dede1b2b1b1a33696f471a7d0a4c4ed4148c44b8a1ad213"
     },
     {
       "Name": "UnityEngine.UnityAnalyticsCommonModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityAnalyticsCommonModule.dll",
-      "Size": 21016
+      "Size": 21016,
+      "Hash": "f0d33beb522d36e31e5a0e4c076658c39b813d73a39419377031a4d6c5b1d78b"
     },
     {
       "Name": "UnityEngine.UnityAnalyticsModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityAnalyticsModule.dll",
-      "Size": 44568
+      "Size": 44568,
+      "Hash": "b4036a7746d05fdaa7daa9b1f91d55f1435b35f0ef4b1e96c5e7e0884a7aeed5"
     },
     {
       "Name": "UnityEngine.UnityConnectModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityConnectModule.dll",
-      "Size": 21528
+      "Size": 21528,
+      "Hash": "1f5a2b8b80088d441f8f7fea46128089867b9eee30b3afda163341feb42b84be"
     },
     {
       "Name": "UnityEngine.UnityCurlModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityCurlModule.dll",
-      "Size": 21528
+      "Size": 21528,
+      "Hash": "1ae894086e152b4c94cde14b02714f88bdc7d77c38cde2e67f2a2806947757f9"
     },
     {
       "Name": "UnityEngine.UnityTestProtocolModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityTestProtocolModule.dll",
-      "Size": 19992
+      "Size": 19992,
+      "Hash": "fad87c68d8c4a4425e21831bef696cb53ba7f70a45173709b95c3a8c4e630913"
     },
     {
       "Name": "UnityEngine.UnityWebRequestAssetBundleModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll",
-      "Size": 23064
+      "Size": 23064,
+      "Hash": "f62f5b5363b3d02f1fc97d7711e19ad29e61c008165d88fb6da0e769c7906444"
     },
     {
       "Name": "UnityEngine.UnityWebRequestAudioModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.dll",
-      "Size": 22552
+      "Size": 22552,
+      "Hash": "188dcb4ce5f9236dfddfb600661cf443ffc68d669f35be2add85b556f82d1859"
     },
     {
       "Name": "UnityEngine.UnityWebRequestModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestModule.dll",
-      "Size": 57880
+      "Size": 57880,
+      "Hash": "4b2823356fe5ea02bbfc8085689e53ea42f830f52c25f9cf5f2a652f75f094f1"
     },
     {
       "Name": "UnityEngine.UnityWebRequestTextureModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.dll",
-      "Size": 21528
+      "Size": 21528,
+      "Hash": "2738910bd1067498a4f8d9607e653ee658a469885d12f84716460adf77a6cde0"
     },
     {
       "Name": "UnityEngine.UnityWebRequestWWWModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll",
-      "Size": 31256
+      "Size": 31256,
+      "Hash": "0572c22dce9f8c9cb1737941fe9fb3f2f66ff9f545e8c8d97177ec8982eb0119"
     },
     {
       "Name": "UnityEngine.VehiclesModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.VehiclesModule.dll",
-      "Size": 24088
+      "Size": 24088,
+      "Hash": "0c5d8e24dca05564a15284123890b20ac7a231f8305e7bfd797d3a12ee861f7a"
     },
     {
       "Name": "UnityEngine.VFXModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.VFXModule.dll",
-      "Size": 58392
+      "Size": 58392,
+      "Hash": "2347447a597ea8c4dc181d367d41eba79e15c990b1c43f79e9d6823f79b51494"
     },
     {
       "Name": "UnityEngine.VideoModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.VideoModule.dll",
-      "Size": 40984
+      "Size": 40984,
+      "Hash": "f3a6b14e470aadc8c90011581eb8dd41e08f32849b019ed1fd85401574ef1a75"
     },
     {
       "Name": "UnityEngine.VirtualTexturingModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.VirtualTexturingModule.dll",
-      "Size": 35352
+      "Size": 35352,
+      "Hash": "5d1976579e2a95944f6ae9fc0b810272cff74cd4911c08ebfd31d62b68e688a6"
     },
     {
       "Name": "UnityEngine.VRModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.VRModule.dll",
-      "Size": 26136
+      "Size": 26136,
+      "Hash": "6a121650c410f7812d0377e29fcb69ef8a249c94f231c312374501d72293a7ae"
     },
     {
       "Name": "UnityEngine.WindModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.WindModule.dll",
-      "Size": 21016
+      "Size": 21016,
+      "Hash": "c0129f9bb29810bc81dee945ade273ffaa69a11cf4ba6fbdab0fcd7e8a98ef43"
     },
     {
       "Name": "UnityEngine.XR.LegacyInputHelpers.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.XR.LegacyInputHelpers.dll",
-      "Size": 23552
+      "Size": 23552,
+      "Hash": "2e0493c8ce2361fab235550e72791b62deb49998b87f90ae4f30363c1cfd9019"
     },
     {
       "Name": "UnityEngine.XRModule.dll",
       "Path": "Game 1_Data\\Managed\\UnityEngine.XRModule.dll",
-      "Size": 70680
+      "Size": 70680,
+      "Hash": "8ca8efc254dc0e8fb97dd61b340d0e0f0d84cbf7649d852b21f38d1e181970b2"
     },
     {
       "Name": "websocket-sharp.dll",
       "Path": "Game 1_Data\\Managed\\websocket-sharp.dll",
-      "Size": 248320
+      "Size": 248320,
+      "Hash": "0113ac17878d4fe992fa487c4fd9a8fa3850d4fa4b64cab45ecf782a3d6fef7a"
     },
     {
       "Name": "unity default resources",
       "Path": "Game 1_Data\\Resources\\unity default resources",
-      "Size": 1551312
+      "Size": 1551312,
+      "Hash": "447caf3737cc58e2cf965f9829ae1c00c2c88505c055df2e8be0d8ede76b4da9"
     },
     {
       "Name": "unity_builtin_extra",
       "Path": "Game 1_Data\\Resources\\unity_builtin_extra",
-      "Size": 413956
+      "Size": 413956,
+      "Hash": "29ed077538979e47bb821aa366c3e9e89f7201106ff2465121c22d134bb2df63"
     },
     {
       "Name": "google-services-desktop.json",
       "Path": "Game 1_Data\\StreamingAssets\\google-services-desktop.json",
-      "Size": 771
+      "Size": 771,
+      "Hash": "7545bb4fcdb77f8d96db6c75018f716e24601a31112fa959406d66672899e995"
     },
     {
       "Name": "UnityServicesProjectConfiguration.json",
       "Path": "Game 1_Data\\StreamingAssets\\UnityServicesProjectConfiguration.json",
-      "Size": 2603
+      "Size": 2603,
+      "Hash": "31df7ad9f455fb258fc0b28fb612b6096653f97789af755dbd232c4e5bccaf54"
     },
     {
       "Name": "mono-2.0-bdwgc.dll",
       "Path": "MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
-      "Size": 7895064
+      "Size": 7895064,
+      "Hash": "71efb4e9b4b71db348a94ee37a22aeca99994a4fd4d17002b62f208871db9e5b"
     },
     {
       "Name": "MonoPosixHelper.dll",
       "Path": "MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll",
-      "Size": 610840
+      "Size": 610840,
+      "Hash": "d7f9e1d9165d8710344fc0b16dbe7aa1e19b8fd5b5d0938402888ea00c614670"
     },
     {
       "Name": "FirebaseCppApp-12_3_0.dll",
       "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppApp-12_3_0.dll",
-      "Size": 14785024
+      "Size": 14785024,
+      "Hash": "b0d7ba571d4985eb08e2d499b67e71421878e2f77a21b1eddff5b56313e6ff79"
     },
     {
       "Name": "FirebaseCppApp-12_7_0.dll",
       "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppApp-12_7_0.dll",
-      "Size": 14789632
+      "Size": 14789632,
+      "Hash": "d8c8001a8de163509d5e73c9c234f2e6a810f0ce7096da041eb27db2c1eb5579"
     },
     {
       "Name": "FirebaseCppAuth.dll",
       "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppAuth.dll",
-      "Size": 1085952
+      "Size": 1085952,
+      "Hash": "b03723cd66c3dc1a100681015f74da85c3e772a1a0b5bb23178cd24202ab9c2e"
     },
     {
       "Name": "FirebaseCppDatabase.dll",
       "Path": "Game 1_Data\\Plugins\\x86_64\\FirebaseCppDatabase.dll",
-      "Size": 5263360
+      "Size": 5263360,
+      "Hash": "26508f8c4c20cfec0d9862fe09165c889a52456b3d11e7c36d81a4464aeddb25"
     },
     {
       "Name": "lib_burst_generated.dll",
       "Path": "Game 1_Data\\Plugins\\x86_64\\lib_burst_generated.dll",
-      "Size": 565248
+      "Size": 565248,
+      "Hash": "04646b59263467c72ee4da2692bef30a3100188c9dbc9d62ab5c23125f5c80b0"
     },
     {
       "Name": "browscap.ini",
       "Path": "MonoBleedingEdge\\etc\\mono\\browscap.ini",
-      "Size": 311984
+      "Size": 311984,
+      "Hash": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e"
     },
     {
       "Name": "config",
       "Path": "MonoBleedingEdge\\etc\\mono\\config",
-      "Size": 3815
+      "Size": 3815,
+      "Hash": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662"
     },
     {
       "Name": "lib_burst_generated.txt",
       "Path": "Game 1_BurstDebugInformation_DoNotShip\\Data\\Plugins\\x86_64\\lib_burst_generated.txt",
-      "Size": 139052
+      "Size": 139052,
+      "Hash": "c3c8eb58bbda18edc4ffc449d7d0bca2b73b6e81730fd0a9a595909fe236cec1"
     },
     {
       "Name": "DefaultWsdlHelpGenerator.aspx",
       "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx",
-      "Size": 60575
+      "Size": 60575,
+      "Hash": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
     },
     {
       "Name": "machine.config",
       "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\machine.config",
-      "Size": 29066
+      "Size": 29066,
+      "Hash": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30"
     },
     {
       "Name": "settings.map",
       "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\settings.map",
-      "Size": 2622
+      "Size": 2622,
+      "Hash": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2"
     },
     {
       "Name": "web.config",
       "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\web.config",
-      "Size": 11635
+      "Size": 11635,
+      "Hash": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92"
     },
     {
       "Name": "DefaultWsdlHelpGenerator.aspx",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\DefaultWsdlHelpGenerator.aspx",
-      "Size": 60575
+      "Size": 60575,
+      "Hash": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
     },
     {
       "Name": "machine.config",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\machine.config",
-      "Size": 33598
+      "Size": 33598,
+      "Hash": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed"
     },
     {
       "Name": "settings.map",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\settings.map",
-      "Size": 2622
+      "Size": 2622,
+      "Hash": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
     },
     {
       "Name": "web.config",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\web.config",
-      "Size": 18802
+      "Size": 18802,
+      "Hash": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492"
     },
     {
       "Name": "DefaultWsdlHelpGenerator.aspx",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\DefaultWsdlHelpGenerator.aspx",
-      "Size": 60575
+      "Size": 60575,
+      "Hash": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
     },
     {
       "Name": "machine.config",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\machine.config",
-      "Size": 34056
+      "Size": 34056,
+      "Hash": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c"
     },
     {
       "Name": "settings.map",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\settings.map",
-      "Size": 2622
+      "Size": 2622,
+      "Hash": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
     },
     {
       "Name": "web.config",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\web.config",
-      "Size": 18811
+      "Size": 18811,
+      "Hash": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824"
     },
     {
       "Name": "config.xml",
       "Path": "MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml",
-      "Size": 25817
+      "Size": 25817,
+      "Hash": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
     },
     {
       "Name": "Compat.browser",
       "Path": "MonoBleedingEdge\\etc\\mono\\2.0\\Browsers\\Compat.browser",
-      "Size": 1605
+      "Size": 1605,
+      "Hash": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
     },
     {
       "Name": "Compat.browser",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.0\\Browsers\\Compat.browser",
-      "Size": 1605
+      "Size": 1605,
+      "Hash": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
     },
     {
       "Name": "Compat.browser",
       "Path": "MonoBleedingEdge\\etc\\mono\\4.5\\Browsers\\Compat.browser",
-      "Size": 1605
+      "Size": 1605,
+      "Hash": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
     }
   ]
 }
